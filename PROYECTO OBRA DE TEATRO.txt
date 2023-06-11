@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> PROYECTO OBRA DE TEATRO </title>
+</head>
+<body background="https://i.pinimg.com/236x/6b/0f/56/6b0f564bdc2fe2dadad7ae3b85a6129d.jpg">
+
+	<p align="center"> <marquee direction="alternate"> <h1> <font color="#ff8a80"> "El Día de Aventuras de las Muñecas Mágicas" </font> </h1> </marquee> </p>
+	<hr width="90%" align="center" size="5" color="#eeeeee">
+
+	<h2 align="center"> <font color="#ff80ab"> <strong> PERSONAJES </strong> </font> </h2>
+	<p align="center"> <marquee direction="down"> <font color="#ea80fc">
+	Sofía <br>
+	Luna <br>
+	Estrella <br>
+	Bella <br> 
+	</marquee> </font> </p>
+	<hr width="50%" align="center" size="1" color="#e0e0e0">
+
+
+	<u> <h3 align="center"> <font color="#b388ff"> Escena 1: El Bosque Encantado </h3> </u>
+	<p align="left"> <em> (Las muñecas están en el escenario, representando <br>
+	un bosque lleno de árboles y flores)<br>
+	Narrador: En el Bosque Encantado, cuatro muñecas <br>
+	mágicas, Sofía, Luna, Estrella y Bella, se reúnen <br>
+	para vivir un día lleno de emocionantes aventuras.<br> </font> </em> </p>
+	
+	<u> <h3 align="center"> <font color="#8c9eff"> Escena 2: El Encuentro con el Hada </h3> </u>
+	<p align="center"> (Una muñeca vestida como hada entra en el escenario)<br>
+	Hada: ¡Saludos, muñecas mágicas! Soy el Hada del Bosque <br> y tengo una misión para ustedes. Deben encontrar las<br> gemas mágicas perdidas y devolverles su brillo.<br>
+	Las Muñecas: ¡Lo haremos, Hada del Bosque!<br> </font> </p>
+
+	<u> <h3 align="center"> <font color="#82b1ff"> Escena 3: La Búsqueda de las Gemas </h3> </u>
+	<p align="right"> <s> (Las muñecas exploran el escenario, buscando las gemas)<br> Narrador: Las muñecas se adentran en el bosque y siguen<br> las pistas del Hada del Bosque para encontrar <br>
+	las gemas mágicas perdidas. Deben superar obstáculos <br>y resolver acertijos en su camino.<br> </font> </s> </p>
+
+	<u> <h3 align="center"> <font color="#80d8ff"> Escena 4: La Prueba del Arco Iris </h3> </u>
+	<p align="center"> <big> (Un arco iris aparece en el escenario y las muñecas <br>
+	deben cruzarlo)<br>
+	Sofía: ¡Miren, un arco iris! Debemos atravesarlo juntas <br>para superar la prueba y encontrar la primera gema.<br>
+	(Las muñecas cruzan el arco iris)<br> </font> </big> </p>
+
+	<u> <h3 align="center"> <font color="#84ffff"> Escena 5: El Laberinto de Flores </h3> </u>
+	<p align="left"> <small> (Un laberinto hecho de flores aparece en el escenario)<br>
+	Luna: ¡Nos encontramos con un laberinto de flores! <br>Trabajemos en equipo para encontrar la <br>
+	siguiente gema. <br>
+	(Las muñecas resuelven el laberinto y encuentran <br>
+	la segunda gema)<br> </font> </small> </p>
+	
+	<u> <h3 align="center"> <font color="#a7ffeb"> Escena 6: La Cascada Mágica </h3> </u>
+	<p align="center"> <tt> (Una cascada de tela representa la cascada mágica) <br>
+	Estrella: ¡Miren esa hermosa cascada! Creo que la <br>
+	tercera gema se encuentra allí. Sigamos el sonido del <br>agua.<br>
+	(Las muñecas encuentran la tercera gema detrás de <br>
+	la cascada)<br> </font> </tt> </p>
+
+	<u> <h3 align="center"> <font color="#b9f6ca"> Escena 7: El Reencuentro con el Hada </h3> </u>
+	<p align="right"> <sup> (Las muñecas regresan al escenario principal) <br>
+	Bella: ¡Hemos encontrado todas las gemas mágicas, <br>
+	Hada del Bosque! <br>
+	Hada: Excelente trabajo, valientes muñecas mágicas.<br> Ahora, coloquen las gemas en el pedestal para que <br>recuperen su brillo.<br>
+	(Las muñecas colocan las gemas en el pedestal y estas <br>brillan intensamente)<br> </font> </sup> </p>
+
+	<u> <h3 align="center"> <font color="#ccff90"> Escena 8: El Regreso al Bosque Encantado </h3> </u>
+	<p align="center"> <sub> (Las muñecas celebran su éxito)<br>
+	Narrador: Con las gemas mágicas devueltas a su esplendor,<br> las muñecas mágicas celebran su victoria y prometen <br>proteger el Bosque Encantado para siempre. <br> </font> </sub> </p>
+	<hr width="90%" align="center" size="5" color="#bdbdbd">
+
+
+	<h3 align="center"> <font color="#f4ff81"> INDEX </font> </h3>
+	<p align="center"> <a href=" poner link del index " > <img src="https://i.pinimg.com/236x/ed/5d/43/ed5d43cb22d2a093c42d4549180d2c0f.jpg" width="200" height="150"> </a> </p>
+
+	<p> <img src="https://i.pinimg.com/564x/8f/48/20/8f4820a728b3623c436507c210b9cfc2.jpg" width="250" height="200" align="right" border="5"> </p>
+	<p> <img src="https://i.pinimg.com/236x/2f/1c/b1/2f1cb129b4a3c31bd2f2a987a5873c13.jpg" width="250" height="200" align="center" border="5"> </p>
+
+	
+	<p align="center"> <iframe width="985" height="315" src="https://www.youtube.com/embed/U-w8r6bP1OA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </p>
+
+	<p align="center"> <a href=" poner link del video " >
+	<img src="https://i.pinimg.com/236x/19/1b/db/191bdb786ce5eb1b3fae69fb32cff0dd.jpg" width="985" height="100"> </a> </p>
+	
+	<p align="center"> <marquee loop="5" direction="right" behaviour="alternate"> <hr width="66%" align="center" size="5" color="#9e9e9e"> </marquee>
+	<marquee loop="7" direction="left" behaviour="alternate"><hr width="80%" align="center" size="7" color="#757575"> </marquee> </p>
+
+
+	<table border="7%" align="center"> <tr> 
+	<th width="140" height="100" bgcolor="#ffff8d"> 777 </th>
+	<th> <img src="  " width="140" height="100"> </th>
+	<th> <img src="  " width="140" height="100"> </th>
+	<th width="140" height="100" bgcolor="#ffd180"> </th>
+	<th width="140" height="100" bgcolor="#ff9e80"> <img src="  " width="100" height="80"> </th>
+	</tr> <tr>
+	<td> <img src="  " width="140" height="100"> </td> 
+	<td width="140" height="100" bgcolor="#ffe57f" align="center"> <img src="  " width="100" height="80"> </td>
+	<td> <img src="  " width="140" height="100"> </td>
+	<td width="140" height="100" align="center"> 000 </td>
+	<td > <img src="  " width="140" height="100"> </td>
+	</tr> </td>
+
+</body>
+</html>

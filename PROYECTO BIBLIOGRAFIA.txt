@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> PROYECTO BIBLIOGRAFIA </title>
+</head>
+
+<body bgcolor="#000000">
+<h2 align="center"> <font color="#e0e0e0"> <em> KAROL YANIN ⭐ </font> </h2>
+	
+	<p align="center"> <img src="https://i.pinimg.com/236x/fa/bb/5c/fabb5c594257d8d5f7d2d7f47470d5a5.jpg" width="250" height="200" align="middle" border="5"> </p>
+
+	<p align="center"> <font color="#e0e0e0"> Hola mundo, en este poco, muy poco tiempo que llevo en el politecnico tome en cuenta que <br>no me gusta mucho de lo que hay aqui, pero es lo que hay asi que a continuar. <br>
+	El politecnico me a ayudado a creser y conocerme un poco mas a mi, asi como a conocer a mas personas <br>
+	que me aportan muchisimo y que han sido de gran ayuda en mi estancia, por eso mismo no es del todo <br>
+	tan malo estar aqui, a pesar de esperar algo mejor.<br> </font> </p>
+
+	<p align="center"> <h4 align="center"> <font color="#e0e0e0"> MI PLAN A CORTO PLAZO </h4> </font> </p>
+
+	<p align="center"> <font color="#e0e0e0"> Academicamente hablando, ahora mismo lo que quiero realizar (y terminar) es este semestre <br> de preparatoria para posteriormente continuar con una carrera de este mismo instituto, ya que no planeo <br> hacer un cambio de plantel, hablando aun mas, mas corto es terminar este troyecto, el cual en estos momento <br> es el que me esta axficciando, busco terminar y al fin descansar, para despues regresar a sufrir por <br>
+	mi maestra de filosofia, la cual tambien busca hacerme querer odiar la escuela denuievo 😽 </font> </p>
+
+	<p align="center"> <h4 align="center"> <font color="#e0e0e0"> MI PLAN A LARGO PLAZO </h4> </font> </p>
+
+	<p align="center"> <font color="#e0e0e0"> Lo que planeo para mi plan de vida académico a largo plazo es, terminar mi semestre con <br> buen promedio para asi conseguir la carrera que sea de mi interés y me deje un buen recurso para conseguir <br> trabajo de ello  o el conocimiento, de ahí estudiar la universidad en la UNAM o en el IPN con cualquiera <br> 
+	me conformo si tienen alguna carrera de mi interés, como psicóloga (que si está) industria textil, diseño <br> gráfico o algún arte de mi interés. De ahí me gustaría titularme y salir como profesional de aquello que <br>estudie, para después buscar un empleó o trabajar mientras estudio para ganar experiencia, pero eso <br> 
+	si conseguir mucho mucho dinero 💵 y con ello llegar a lo que sería en éxito a mis ojos.<div align="center">
+	Aparte no solo me gustaría enfocar mi vida a los estudios y la escuela, parte de mi quiere entrenar box y ser <br> una deportista avanzada con buenos hábitos y vida plena, quiero que estas cosas se unan a mi vida académica <br> para así llegar y lograr todo y que mientras lo hago y lo logro todo en mi esté en paz y sea feliz. ✨ </div> </font> </em> </p>
+
+
+</body>
+</html>
